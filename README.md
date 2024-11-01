@@ -42,7 +42,7 @@
 
 ###
 
-<h2 align="left">Redes Sociais:</h2>
+<h2 align="left">Redes Sociais</h2>
 
 ###
 
@@ -50,8 +50,9 @@
   <a href="https://www.linkedin.com/in/kelvin-lazzaris" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.hackerrank.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  <a href="mailto:contatokelvin2@gmail.com">
+    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" height="40" alt="gmail logo" />
+  </a>
 </div>
 
 ###
