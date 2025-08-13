@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Meu nome é Kelvin, atualmente, atuo como desenvolvedor Back-End, tendo utilizado como principais linguagens de programação o PHP, GO, JAVA e SQL.<br><br>Possuo 7 anos de experiência no mundo da tecnologia, iniciei minha trajetória profissional com um estágio de 18 meses em Infraestrutura de Redes em 2021, onde atuei até janeiro de 2023. Desde então, tenho trabalhado como desenvolvedor de software enquanto também exerço a função de docente na escola Cetesc.<br><br>Recentemente, aprofundei minhas habilidades em bancos de dados relacionais por meio do curso Jovem Programador no SENAC e estou atualmente ingressando na 8° fase do bacharelado em Ciência da Computação.</p>
+<p align="left">Meu nome é Kelvin, atualmente, atuo como desenvolvedor Back-End, tendo utilizado como principais linguagens de programação o PHP, GO, JAVA e SQL.<br><br>Possuo 7 anos de experiência no mundo da tecnologia, iniciei minha trajetória profissional com um estágio de 18 meses em Infraestrutura de Redes em 2021, onde atuei até janeiro de 2023. Desde então, tenho trabalhado como desenvolvedor de software enquanto também exerço a função de docente na escola Cetesc.<br><br>Recentemente, aprofundei minhas habilidades em bancos de dados relacionais por meio do curso Jovem Programador no SENAC e estou atualmente cursando a 8° fase do bacharelado em Ciência da Computação.</p>
 
 ###
 
